@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently learning github and other data-tools alongside my work!
 <!--
 **Opthix/Opthix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
